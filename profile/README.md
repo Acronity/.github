@@ -12,10 +12,10 @@
 
 <h3>Core Team</h3>
 
-| Username         | Role              | Email                      |
-| :--------------- | :---------------- | :------------------------- |
-| Dezkrazzer       | Administrator     | dezkrazzer@acronet.work    |
-| Oregano          | Administrator     | oregano@acronet.work       |
+| Username          | Role              | Email                         |
+| :---------------- | :---------------- | :---------------------------- |
+| Dezkrazzer        | Administrator     | dezkrazzer@acronet.work       |
+| [matheusvalentino2](https://github.com/matheusvalentino2) | Administrator     | matheusvalentino@acronet.work |
 
 <h3>Find us on</h3>
 
