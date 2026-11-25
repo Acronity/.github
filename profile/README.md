@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/954175101371301961/1437468238618558514/LOGO_ACRONITY_4.png?ex=69135a1e&is=6912089e&hm=a6c214082a885656abf28f25f1bd111beb4f9f49087784d462229b6fd55face7" alt="Logo"/>
+  <img src="https://avatars.githubusercontent.com/u/241058667?s=200" alt="Logo"/>
 </p>
 
 <hr>
@@ -14,7 +14,7 @@
 
 | Username          | Role              | Email                         |
 | :---------------- | :---------------- | :---------------------------- |
-| Dezkrazzer        | Administrator     | dezkrazzer@acronet.work       |
+| [Dezkrazzer](https://github.com/Dezkrazzer)        | Administrator     | dezkrazzer@acronet.work       |
 | [matheusvalentino2](https://github.com/matheusvalentino2) | Administrator     | matheusvalentino@acronet.work |
 
 <h3>Find us on</h3>
